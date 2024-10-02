@@ -98,7 +98,7 @@
                     <div class="text-center mt-4">
                         <p class="mb-0 text-sm">
                         Already have an account?
-                        <a href="#!" class="hover:text-blue-600">Log In</a>
+                        <a href="#!" class="hover:text-blue-600">Sign In</a>
                         </p>
                     </div>
                     </form>

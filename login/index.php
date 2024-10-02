@@ -85,7 +85,7 @@
                 <h2 class="text-lg font-bold">Login Failed</h2>
                 <button id="closeFailureModal" class="text-gray-500">&times;</button>
             </div>
-            <p class="mt-4">Invalid username or password. Please try again.</p>
+            <p class="mt-4">Invalid username or password. Please try again. </p>
         </div>
     </div>
 
